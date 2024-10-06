@@ -7,7 +7,7 @@ Place apriltag_localize, px4_msgs and px4_ros_com in a ros2 workspace in the dro
 
 ## Usage
 
-''' bash
+``` bash
 
 $ cd ~
 $ ros2 run voxl_mpa_to_ros2 voxl_mpa_to_ros2_node 
