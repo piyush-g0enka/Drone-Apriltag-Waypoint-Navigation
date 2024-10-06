@@ -1,5 +1,7 @@
 # Drone Apriltag Waypoint Navigation
 
+Drone - MODAL AI VOXL2
+
 First install the voxl-mpa updated .deb package in the drone. This package is modified to output apriltag id in header.frame_id field of tagpose topics.
 
 Place apriltag_localize and px4_ros_com in a ros2 workspace in the drone and build the packages. Installation of px4_msgs ROS2 package is also required.
