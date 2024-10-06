@@ -1,6 +1,6 @@
 # Drone Apriltag Waypoint Navigation
 
-Drone - MODAL AI VOXL2
+Drone - MODAL AI VOXL2 m500
 
 First install the voxl-mpa updated .deb package in the drone. This package is modified to output apriltag id in header.frame_id field of tagpose topics.
 
